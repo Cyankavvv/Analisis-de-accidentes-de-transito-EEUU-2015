@@ -68,3 +68,10 @@ _El gráfico muestra la cantidad de accidentes por cada mes del año 2015, se mu
 Se puede notar un peak important, entre las 17:00 y las 21:00. El cual ppuede deberse a que en eses horario las personas suelen regresar del trabajo a sus casas.
 
 
+[![accidenteshorass.png](https://i.postimg.cc/Fstb42Xz/accidenteshorass.png)](https://postimg.cc/hhrQ8ZjR)
+_El gráfico muestra la cantidad de accidentes por cada hora del día en el año 2015._
+
+Luego, profundizando para lo estados con mayor cantidad de accidentes:  
+
+[![accidenteshoras.png](https://i.postimg.cc/X7gjvbFv/accidenteshoras.png)](https://postimg.cc/jLL08BMV)
+_El gráfico muestra la cantidad de accidentes por cada hora del día en el año 2015, para los estados con mayor cantidad de accidentes_
