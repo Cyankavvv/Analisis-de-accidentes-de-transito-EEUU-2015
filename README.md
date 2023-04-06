@@ -1,4 +1,4 @@
-<h1 align="center">  Análisis del número de accidentes de tráfico del año 2015 en Estados Unidos </h1>
+<h1 align="center"> Análisis del número de accidentes de tráfico del año 2015 en Estados Unidos</h1>
 
 El siguiente repositorio se realiza un análisis del número de accidentes de tráfico del año 2015 en Estados Unidos, utilizando el dataset 'nhtsa_traffic_fatalities' del proyecto 'bigquery-public-data', utilizando BigQuery y Python.
 
@@ -14,18 +14,18 @@ Lo siguiente se debe realizar en un jupyter notebook.
    4. Mayor número de accidentes por carretera.
 3. Realizar un análisis mensual de accidentes por estado.
 4. Realizar un análisis según la hora del dia.
-   - Ahondar para los estados con mayor cantidad de muertes
+   - Ahondar para los estados con mayor cantidad de muertes.
 5. Finalmente realizar un análisis resaltando la razón entre números de accidentes y conductores ebrios.
 
 ## Pregunta 1: Crear un diccionario de datos
-Para la pregunta 1, se generó el siguiente archivo 'csv' con el [diccionario de datos](diccionario_de_datos.csv)
+Para la pregunta 1, se generó el siguiente archivo '.csv' con el [diccionario de datos](diccionario_de_datos.csv)
 
 ## Pregunta 2.1: Mayor número de accidentes por estado.
 
 Se puede notar que el mayor número de accidentes se produjeron en el estado de Texas con 3190 accidentes, lo siguen California con 3123 y Florida con 2699, estos 3 estados destacan en gran proporción sobre el resto.
 
 [![accidentes-2015.png](https://i.postimg.cc/C1Bqk1YY/accidentes-2015.png)](https://postimg.cc/9R20jcrN)
-_El gráfico muestra los estados con la mayor cantidad de accideentes de tránsito en Esstados Unidos en el año 2015._
+_El gráfico muestra los estados con la mayor cantidad de accidentes de tránsito en Esstados Unidos en el año 2015._
 
 ## Pregunta 2.2: Mayor número de accidentes por uso de tierra.
 
@@ -57,7 +57,7 @@ _El gráfico muestra la cantidad de accidentes por carretera._
 
 ## Pregunta 3: Realizar un análisis mensual de accidentes por estado.
 
-Se puede apreeciar que Florida, California y Texas concentran la mayor parte de los accidentes durante todos los meses del año. Curiosamente, en diciembre estos 3 estados suelen tener una cantidad de accidentes muy similar.
+Se puede apreciar que Florida, California y Texas concentran la mayor parte de los accidentes durante todos los meses del año. Curiosamente, en diciembre estos 3 estados suelen tener una cantidad de accidentes muy similar.
 
 [![accidentesa-o.png](https://i.postimg.cc/kg17xvT3/accidentesa-o.png)](https://postimg.cc/4YcCGVCB)
 
@@ -65,7 +65,7 @@ _El gráfico muestra la cantidad de accidentes por cada mes del año 2015, se mu
 
 ## Pregunta 4: Realizar un análisis según la hora del día.
 
-Se puede notar un peak importante entre las 17:00 y las 21:00. El cual podría deberse a que en ese horario las personas suelen regresar a sus casas luego de la jornada laboral, por lo tanto hay mucho tráfico y personas cansadas. Además, la luz disminuye a esas horas, por lo cual es más fácil que los conductores no vean alguna señal de tránsito, a otros vehículos o peatones.
+Se puede notar un peak importante entre las 17:00 y las 21:00. El cual podría deberse a que en ese horario las personas suelen regresar a sus hogares después del trabajo, por lo tanto hay mucho tráfico y las personas están cansadas. Además, la luz disminuye a esas horas, por lo cual es más fácil que los conductores no vean alguna señal de tránsito, a otros vehículos o peatones.
 
 
 [![accidenteshorass.png](https://i.postimg.cc/Fstb42Xz/accidenteshorass.png)](https://postimg.cc/hhrQ8ZjR)
