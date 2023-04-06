@@ -65,7 +65,7 @@ _El gráfico muestra la cantidad de accidentes por cada mes del año 2015, se mu
 
 ## Pregunta 4: Realizar un análisis según la hora del día.
 
-Se puede notar un peak important, entre las 17:00 y las 21:00. El cual ppuede deberse a que en eses horario las personas suelen regresar del trabajo a sus casas.
+Se puede notar un peak importante entre las 17:00 y las 21:00. El cual podría deberse a que en ese horario las personas suelen regresar a sus casas luego de la jornada laboral, por lo tanto hay mucho tráfico y personas cansadas. Además, la luz disminuye a esas horas, por lo cual es más fácil que los conductores no vean alguna señal de tránsito, a otros vehículos o peatones.
 
 
 [![accidenteshorass.png](https://i.postimg.cc/Fstb42Xz/accidenteshorass.png)](https://postimg.cc/hhrQ8ZjR)
@@ -75,3 +75,23 @@ Luego, profundizando para lo estados con mayor cantidad de accidentes:
 
 [![accidenteshoras.png](https://i.postimg.cc/X7gjvbFv/accidenteshoras.png)](https://postimg.cc/jLL08BMV)
 _El gráfico muestra la cantidad de accidentes por cada hora del día en el año 2015, para los estados con mayor cantidad de accidentes_
+
+
+## Pregunta 5: Realizar un análisis de la razón entre números de accidentes y conductores ebrios
+Para obtener esta razón se dividen el número de conductores ebrios por el número de accidentes.
+
+Se decide realizar un análisis de esta razón entre accidentes y conductores ebrios para los estados donde fue el accidente, la hora del día en la cual fue el accidente, y el día de la semana en el cual sucedió el accidente.
+
+En cuanto a los estados, se puede observar que Maine es donde esta relación es mayor, con un 50% de los accidentes que involucran conductores ebrios presentes.
+
+[![razonestados.png](https://i.postimg.cc/T2g2Zm3g/razonestados.png)](https://postimg.cc/5j9MzXv2)
+_El gráfico muestra los estados donde la relación conductores ebrios / accidentes es mayor._
+
+Para la hora del día, se puede notar que la razón de 'accidentes / conductores ebrios' es mayor en las horas de la noche y madrugada, tal vez puede explicarse a que a esas horas la gente suele ir a fiestas o volver a sus casas luego de una fiesta, donde es común consumir bebidas alcohólicas.
+[![razonhora.png](https://i.postimg.cc/rs18x6PQ/razonhora.png)](https://postimg.cc/0KNR14xw)
+_El gráfico muestra la relación conductores ebrios / accidentes para cada hora del día._
+
+Para los días de la semana, se logra notar que los fines de semana es cuando más aumenta la razón, lo que puede explicarse a que son los días de esparcimiento de las personas por lo que suelen consumir bebidas alcohólicas.
+
+[![razonsemana.png](https://i.postimg.cc/SRFSnQDn/razonsemana.png)](https://postimg.cc/Q9mGPDLD)
+_El gráfico muestra la relación conductores ebrios / accidentes para cada día de la semana._
