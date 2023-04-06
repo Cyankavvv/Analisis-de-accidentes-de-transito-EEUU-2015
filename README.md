@@ -17,4 +17,4 @@ Lo siguiente se debe realizar en un jupyter notebook
 5. Finalmente realizar un análisis resaltando la razón entre números de accidentes y conductores ebrios. (1 punto)
 
 
-[accidentes-2015.png](https://postimg.cc/9R20jcrN)
+[![accidentes-2015.png](https://i.postimg.cc/C1Bqk1YY/accidentes-2015.png)](https://postimg.cc/9R20jcrN)
