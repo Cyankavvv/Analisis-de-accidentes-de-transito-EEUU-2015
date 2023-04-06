@@ -1,4 +1,3 @@
-# Accidentes de tráfico en Estados Unidos en 2015.
 <h1 align="center">  Análisis del número de accidentes de tráfico del año 2015 en Estados Unidos </h1>
 
 El siguiente repositorio se realiza un análisis del número de accidentes de tráfico del año 2015 en Estados Unidos, utilizando el dataset 'nhtsa_traffic_fatalities' del proyecto 'bigquery-public-data', utilizando BigQuery y Python.
@@ -17,3 +16,5 @@ Lo siguiente se debe realizar en un jupyter notebook
    - Ahondar para los estados con mayor cantidad de muertes
 5. Finalmente realizar un análisis resaltando la razón entre números de accidentes y conductores ebrios. (1 punto)
 
+
+[accidentes-2015.png](https://postimg.cc/9R20jcrN)
