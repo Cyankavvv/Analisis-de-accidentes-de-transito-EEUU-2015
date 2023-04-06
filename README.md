@@ -2,7 +2,8 @@
 
 El siguiente repositorio se realiza un análisis del número de accidentes de tráfico del año 2015 en Estados Unidos, utilizando el dataset 'nhtsa_traffic_fatalities' del proyecto 'bigquery-public-data', utilizando BigQuery y Python.
 
-  
+
+## Objetivos
 Para este análisis se solicitan realizar las siguientes instrucciones:
 1. Crear y completar un diccionario de datos de la tabla, guardarlo en un archivo de texto separado por comas `.csv` (1 punto)
 Lo siguiente se debe realizar en un jupyter notebook
@@ -16,5 +17,7 @@ Lo siguiente se debe realizar en un jupyter notebook
    - Ahondar para los estados con mayor cantidad de muertes
 5. Finalmente realizar un análisis resaltando la razón entre números de accidentes y conductores ebrios. (1 punto)
 
+_Para la pregunta 1, se generó el siguiente archivo 'csv' con el diccionario de datos
+[diccionario_de_datos](diccionario_de_datos.csv)
 
 [![accidentes-2015.png](https://i.postimg.cc/C1Bqk1YY/accidentes-2015.png)](https://postimg.cc/9R20jcrN)
