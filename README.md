@@ -30,9 +30,9 @@ _El gráfico muestra los estados con la mayor cantidad de accidentes de tránsit
 ## Pregunta 2.2: Mayor número de accidentes por uso de tierra.
 
 Se cuentan la cantidad de accidentes que se dieron en sectores rurales y urbanos.  
-Se puede notar que los accidentes urbanos son los que ocurren con más frecuencia, aunque no por mucho, es aproximadamente un 4% mayor que los accidentes rurales.
+Se puede notar que los accidentes urbanos y rurales ocurren casi con la misma frecuencia.
 
-[![rural-urbano.png](https://i.postimg.cc/1zqfWdn1/rural-urbano.png)](https://postimg.cc/hJKDvp12)  
+[![graficocircular.png](https://i.postimg.cc/VLM48FnC/graficocircular.png)](https://postimg.cc/9rmyPZxm)
 
 _El gráfico muestra la cantidad de accidentes en los lugares rurales y los lugares urbanos._
 
@@ -84,8 +84,12 @@ Se decide realizar un análisis de esta razón entre accidentes y conductores eb
 
 En cuanto a los estados, se puede observar que Maine es donde esta relación es mayor, con un 50% de los accidentes que involucran conductores ebrios presentes.
 
-[![razonestados.png](https://i.postimg.cc/T2g2Zm3g/razonestados.png)](https://postimg.cc/5j9MzXv2)
-_El gráfico muestra los estados donde la relación conductores ebrios / accidentes es mayor._
+[![aa.png](https://i.postimg.cc/P5t3Y70b/aa.png)](https://postimg.cc/xc43S6fq)
+_El gráfico muestra los estados donde la relación conductores ebrios / accidentes es mayor._  
+
+También es útil visualizarlos de manera geográfica, aquí se puede ver que los estados de más al norte presentan una relación mayor entre conductores ebrios y accidentes.
+[![mapacalor.png](https://i.postimg.cc/prpch5Sw/mapacalor.png)](https://postimg.cc/tnGN8Jpk)
+_El gráfico muestra un mapa de calor de la relación conductores ebrios / accidentes, en Estados Unidos._
 
 Para la hora del día, se puede notar que la razón de 'accidentes / conductores ebrios' es mayor en las horas de la noche y madrugada, tal vez puede explicarse a que a esas horas la gente suele ir a fiestas o volver a sus casas luego de una fiesta, donde es común consumir bebidas alcohólicas.
 [![razonhora.png](https://i.postimg.cc/rs18x6PQ/razonhora.png)](https://postimg.cc/0KNR14xw)
