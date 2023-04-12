@@ -32,7 +32,7 @@ _El gráfico muestra los estados con la mayor cantidad de accidentes de tránsit
 Se cuentan la cantidad de accidentes que se dieron en sectores rurales y urbanos.  
 Se puede notar que los accidentes urbanos son los que ocurren con más frecuencia, aunque no por mucho, es aproximadamente un 4% mayor que los accidentes rurales.
 
-[![rural-urbano.png](https://i.postimg.cc/1zqfWdn1/rural-urbano.png)](https://postimg.cc/hJKDvp12)  
+[![graficocircular.png](https://i.postimg.cc/VLM48FnC/graficocircular.png)](https://postimg.cc/9rmyPZxm)
 
 _El gráfico muestra la cantidad de accidentes en los lugares rurales y los lugares urbanos._
 
