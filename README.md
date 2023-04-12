@@ -84,7 +84,7 @@ Se decide realizar un análisis de esta razón entre accidentes y conductores eb
 
 En cuanto a los estados, se puede observar que Maine es donde esta relación es mayor, con un 50% de los accidentes que involucran conductores ebrios presentes.
 
-[![razonestados.png](https://i.postimg.cc/T2g2Zm3g/razonestados.png)](https://postimg.cc/5j9MzXv2)
+[![aa.png](https://i.postimg.cc/P5t3Y70b/aa.png)](https://postimg.cc/xc43S6fq)
 _El gráfico muestra los estados donde la relación conductores ebrios / accidentes es mayor._  
 
 También es útil visualizarlos de manera geográfica, aquí se puede ver que los estados de más al norte presentan una relación mayor entre conductores ebrios y accidentes.
